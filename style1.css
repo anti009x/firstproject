@@ -1,0 +1,38 @@
+.jumbotron {
+  padding-top: 8rem;
+  padding-bottom: 10px;
+}
+
+.jumbotron img {
+  background-color: black;
+}
+
+body {
+  color: black;
+  min-height: 1500px;
+}
+
+#projects {
+  background-color: #f3f4f5;
+  padding-bottom: 1rem;
+  margin-top: -50px;
+  text-align: center;
+}
+
+.card1 {
+  padding-top: 2rem;
+}
+
+#contact {
+  text-align: center;
+  padding-top: 2rem;
+  background-color: #f3f4f5;
+}
+
+.nav-link {
+  color: black;
+}
+
+section {
+  padding-top: 6rem;
+}
